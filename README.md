@@ -22,3 +22,5 @@ This model could be applied by banks as a **credit risk assessment tool** during
 * **Rejection or additional safeguards** for high-risk applications
 
 This approach could help banks **standardize lending decisions, improve risk assessment, reduce potential credit losses, and make the loan approval process more efficient**, while keeping final decisions under appropriate human and regulatory oversight.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/castille-vllt/2b2e4dc90b6bdf07e767b6884a24c5c7/loan-risk-analysis.ipynb)
